@@ -4,8 +4,16 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <Profile></Profile>
-      <Table></Table>
+       <h1>Student Information Portal</h1>
+       <hr></hr>
+
+       <table>
+        <tbody>
+          <tr>
+            <td></td>
+          </tr>
+        </tbody>
+       </table>
 
     </div>
   );
